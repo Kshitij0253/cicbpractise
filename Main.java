@@ -6,5 +6,6 @@ public class Main{
         System.out.println("add fourth commit ");
         System.out.println("fivth lline added ");
         System.out.println("learning git form gaurav sharma");
+        System.err.println("error");
     }
 }
